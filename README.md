@@ -5,10 +5,9 @@ I am a Cybersecurity SOC Analyst with CompTIA Security+ certification and 3 year
 
 ## Objective
 
-My career started in investment analytics, but I found a passion for cybersecurity, which has led me to change career paths. I am eager to work and learn this field, specifically aiming to join a Security Operations Center (SOC) and eventually move on to becoming a Chief Information Officer after gaining more experience and certifications.
+My career started in investment analytics, but I found a passion for cybersecurity during the pandemic, which led me to transition into this field. I am eager to join a cybersecurity team, specifically a Security Operations Center (SOC), and eventually become a Chief Information Officer after gaining more experience and certifications.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -55,3 +54,8 @@ My career started in investment analytics, but I found a passion for cybersecuri
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+## Youtube Video Link Guide
+- https://www.youtube.com/watch?v=p59B-I67yf8
+
+
